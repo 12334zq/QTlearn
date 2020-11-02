@@ -1,0 +1,2 @@
+# QTlearn
+QT opencv
